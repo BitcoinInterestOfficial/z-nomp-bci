@@ -2,7 +2,7 @@
 
 **[Click here for the official - Zcash® Zclassic, Bitcoin Interest Stratum Mining Pool Installation Guide](https://zdeveloper.org/wiki:z-nomp_install)**
 
-This is a Equihash mining pool based off of Node Open Mining Portal.
+This is a ProgPow mining pool based off of Node Open Mining Portal.
 
 Donations for development are greatly appreciated!
   * BTC: 3A9s85pR8KGESorKV46C6WjM3kXTzQTfGo
